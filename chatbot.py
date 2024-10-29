@@ -3,7 +3,7 @@ import nltk
 from nltk.chat.util import Chat, reflections
 import re
 
-# Baixar os dados necessários da biblioteca nltk
+# Baixar os dados necessários da biblioteca nltk 
 nltk.download('punkt')
 
 # Função para normalizar o texto do usuário, removendo acentos e pontuação
